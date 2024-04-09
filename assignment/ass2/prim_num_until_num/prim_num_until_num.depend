@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697140356 source:d:\assignment\ass2\prim_num_until_num\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

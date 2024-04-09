@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697147480 source:d:\excrsise\accept two integers and check whether they are equal or not\main.c
+	<stdio.h>
+	<stdlib.h>
+

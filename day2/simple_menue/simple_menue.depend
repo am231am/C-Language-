@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697197962 source:d:\day2\simple_menue\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698168760 source:d:\labs\c labs\day2\simple_menue\main.c
+	<stdio.h>
+

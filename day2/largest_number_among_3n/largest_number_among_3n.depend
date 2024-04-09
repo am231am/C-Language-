@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446671344 source:d:\day2\largest_number_among_3n\main.c
+	<stdio.h>
+	<stdlib.h>
+

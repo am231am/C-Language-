@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697233519 source:d:\day5\capital_small_character\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698147148 source:d:\labs\c labs\day5\capital_small_character\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

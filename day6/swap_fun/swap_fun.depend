@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697306334 source:d:\day6\swap_fun\main.c
+	<stdio.h>
+	<stdlib.h>
+

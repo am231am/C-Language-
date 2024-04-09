@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697303704 source:d:\day6\pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698182686 source:d:\labs\c labs\day6\pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

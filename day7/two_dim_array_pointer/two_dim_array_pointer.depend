@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697461078 source:d:\day7\two_dim_array_pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698137808 source:d:\labs\c labs\day7\two_dim_array_pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

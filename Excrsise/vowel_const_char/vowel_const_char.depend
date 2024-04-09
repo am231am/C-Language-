@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697194388 source:d:\excrsise\vowel_const_char\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

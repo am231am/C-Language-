@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696940525 source:d:\day3\max_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

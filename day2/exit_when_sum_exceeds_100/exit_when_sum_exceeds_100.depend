@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697203734 source:d:\day2\exit_when_sum_exceeds_100\main.c
+	<stdio.h>
+	<stdlib.h>
+

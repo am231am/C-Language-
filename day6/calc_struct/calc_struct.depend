@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697392579 source:d:\day6\calc_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1697392579 source:d:\labs\c labs\day6\calc_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+

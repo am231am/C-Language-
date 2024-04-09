@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697121773 source:d:\day5\struct_array_of_employee\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698143731 source:d:\labs\c labs\day5\struct_array_of_employee\main.c
+	<stdio.h>
+	<stdlib.h>
+

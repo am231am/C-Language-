@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697206212 source:d:\day3\avarage_col\main.c
+	<stdio.h>
+	<stdlib.h>
+

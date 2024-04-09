@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697459569 source:d:\day7\one_dim_array_pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

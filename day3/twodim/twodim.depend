@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696945304 source:d:\day3\twodim\main.c
+	<stdio.h>
+	<stdlib.h>
+

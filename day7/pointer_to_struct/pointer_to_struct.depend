@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697461664 source:d:\day7\pointer_to_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1700322284 source:d:\labs\c labs\day7\pointer_to_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+

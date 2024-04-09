@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697871565 source:d:\labs\c labs\excrsise\global_excrsis\main.c
+	<stdio.h>
+	<stdlib.h>
+

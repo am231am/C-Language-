@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1696941940 source:d:\day3\target\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1697212451 source:d:\day3\one_dim_all\main.c
+	<stdio.h>
+	<stdlib.h>
+

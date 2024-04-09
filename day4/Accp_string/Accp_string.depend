@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698211041 source:d:\labs\c labs\day4\accp_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+

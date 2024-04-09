@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697119224 source:d:\day5\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698146442 source:d:\labs\c labs\day5\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

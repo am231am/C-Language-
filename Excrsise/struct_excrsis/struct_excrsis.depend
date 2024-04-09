@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697480769 source:d:\excrsise\struct_excrsis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

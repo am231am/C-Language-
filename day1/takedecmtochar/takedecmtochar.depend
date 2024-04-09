@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696708903 source:d:\day1\takedecmtochar\main.c
+	<stdio.h>
+	<stdlib.h>
+

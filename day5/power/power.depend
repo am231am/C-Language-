@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697120322 source:d:\day5\power\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698145886 source:d:\labs\c labs\day5\power\main.c
+	<stdio.h>
+	<stdlib.h>
+

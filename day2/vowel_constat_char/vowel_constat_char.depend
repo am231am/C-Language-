@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696774894 source:d:\day2\vowel_constat_char\main.c
+	<stdio.h>
+	<stdlib.h>
+
