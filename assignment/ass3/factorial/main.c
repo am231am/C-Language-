@@ -4,9 +4,6 @@
 int main()
 {
 
-
-
-    /*
    int num,fact,i;
    fact=1;
    printf("please enter number ");
@@ -23,7 +20,7 @@ int main()
         num--;
    }
    printf("the factorial of %d is: %d",i,fact);
-   */
+
    //-----------------------------------------------------
    //methode two
   /* for(i=1;i<=num;i++)
